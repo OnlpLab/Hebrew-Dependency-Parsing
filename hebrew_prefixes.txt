@@ -1,0 +1,90 @@
+ב ב ADP ב^ה ADP+DET
+בכ ב^כ ADP+ADP ב^כ^ה ADP+ADP+DET
+ה ה DET
+ו ו CCONJ
+וב ו^ב CCONJ+ADP ו^ב^ה CCONJ+ADP+DET
+ובכ ו^ב^כ CCONJ+ADP+ADP
+וה ו^ה CCONJ+DET
+וכ ו^כ CCONJ+ADP ו^כ CCONJ+ADP ו^כ^ה CCONJ+ADP+DET ו^כ^ה CCONJ+ADP+DET
+וככ ו^כ^כ CCONJ+ADP+ADP ו^כ^כ^ה CCONJ+ADP+ADP+DET
+וכש ו^כש CCONJ+SCONJ
+וכשב ו^כש^ב CCONJ+SCONJ+ADP ו^כש^ב^ה CONJ+SCONJ+ADP+DET
+וכשה ו^כש^ה CCONJ+SCONJ+DET
+וכשכ ו^כש^כ CCONJ+SCONJ+ADP ו^כש^כ CCONJ+SCONJ+ADP ו^כש^כ^ה CCONJ+SCONJ+ADP+DET
+וכשל ו^כש^ל CCONJ+SCONJ+ADP ו^כש^ל^ה CCONJ+SCONJ+ADP+DET
+וכשמ ו^כש^מ CCONJ+SCONJ+ADP
+ול ו^ל CCONJ+ADP ו^ל^ה CCONJ+ADP+DET
+ולכ ו^ל^כ CCONJ+ADP+ADP ו^ל^כ^ה CCONJ+ADP+ADP+DET
+ומ ו^מ CCONJ+ADP
+ומה ו^מ^ה CCONJ+ADP+DET
+ומכ ו^מ^כ CCONJ+ADP+ADP ו^מ^כ^ה CCONJ+ADP+ADP+DET
+ומש ו^מש CCONJ+SCONJ
+ומשב ו^מש^ב CCONJ+SCONJ+ADP ו^מש^ב^ה CCONJ+SCONJ+ADP+DET
+ומשה ו^מש^ה CCONJ+SCONJ+DET
+ומשכ ו^מש^כ CCONJ+SCONJ+ADP ו^מש^כ CCONJ+SCONJ+ADP ו^מש^כ^ה CCONJ+SCONJ+ADP+DET
+ומשל ו^מש^ל CCONJ+SCONJ+ADP ו^מש^ל^ה CCONJ+SCONJ+ADP+DET
+ומשמ ו^מש^מ CCONJ+SCONJ+ADP
+וש ו^ש CCONJ+SCONJ
+ושב ו^ש^ב CCONJ+SCONJ+ADP ו^ש^ב^ה CONJ+SCONJ+ADP+DET
+ושבכ ו^ש^ב^כ CCONJ+SCONJ+ADP+ADP
+ושה ו^ש^ה CCONJ+SCONJ+DET
+ושכ ו^ש^כ CCONJ+SCONJ+ADP ו^ש^כ CONJ+SCONJ+ADP ו^ש^כ^ה CCONJ+SCONJ+ADP+DET
+ושככ ו^ש^כ^כ CCONJ+SCONJ+ADP+ADP
+ושכש ו^ש^כש CCONJ+SCONJ+SCONJ
+ושכשב ו^ש^כש^ב CCONJ+SCONJ+SCONJ+ADP ו^ש^כש^ב^ה CCONJ+SCONJ+SCONJ+ADP+DET
+ושכשה ו^ש^כש^ה CONJ+SCONJ+SCONJ+DET
+ושכשכ ו^ש^כש^כ CCONJ+SCONJ+SCONJ+ADP ו^ש^כש^כ CCONJ+SCONJ+SCONJ+ADP ו^ש^כש^כ^ה CONJ+SCONJ+SCONJ+ADP+DET
+ושכשל ו^ש^כש^ל CCONJ+SCONJ+SCONJ+ADP ו^ש^כש^ל^ה CCONJ+SCONJ+SCONJ+ADP+DET
+ושל ו^ש^ל CCONJ+SCONJ+ADP ו^ש^ל^ה CONJ+SCONJ+ADP+DET
+ושלכ ו^ש^ל^כ CCONJ+SCONJ+ADP+ADP
+ושלכש ו^ש^לכש CCONJ+SCONJ+SCONJ
+ושמ ו^ש^מ CCONJ+SCONJ+ADP
+ושמה ו^ש^מ^ה CCONJ+SCONJ+ADP+DET
+ושמכ ו^ש^מ^כ CCONJ+SCONJ+ADP+ADP
+ושמש ו^ש^מש CCONJ+SCONJ+SCONJ
+ושמשל ו^ש^מש^ל CCONJ+SCONJ+SCONJ+ADP ו^ש^מש^ל^ה CONJ+SCONJ+SCONJ+ADP+DET
+ושמשמ ו^ש^מש^מ CCONJ+SCONJ+SCONJ+ADP
+כ כ ADP כ ADP כ^ה ADP+DET
+ככ כ^כ ADP+ADP כ^כ^ה ADP+ADP+DET
+כש כש SCONJ
+כשב כש^ב SCONJ+ADP כש^ב^ה SCONJ+ADP+DET
+כשה כש^ה SCONJ+DET
+כשכ כש^כ SCONJ+ADP כש^כ SCONJ+ADP כש^כ^ה SCONJ+ADP+DET כש^כ^ה SCONJ+ADP+DET
+כשל כש^ל SCONJ+ADP כש^ל^ה SCONJ+ADP+DET
+כשמ כש^מ SCONJ+ADP
+כשמה כש^מ^ה TEMP-SUBCONJ+ADP+DET
+ל ל ADP ל^ה ADP+DET
+לכ ל^כ ADP+ADP ל^כ^ה ADP+ADP+DET
+מ מ ADP
+מה מ^ה ADP+DET
+מכ מ^כ ADP+ADP מ^כ^ה ADP+ADP+DET
+מש מש SCONJ
+משב מש^ב SCONJ+ADP מש^ב^ה SCONJ+ADP+DET
+משה מש^ה SCONJ+DET
+משכ מש^כ SCONJ+ADP מש^כ SCONJ+ADP מש^כ^ה SCONJ+ADP+DET
+משל מש^ל SCONJ+ADP מש^ל^ה SCONJ+ADP+DET
+משמ מש^מ SCONJ+ADP
+משמה מש^מ^ה SCONJ+ADP+DET
+ש ש SCONJ
+שב ש^ב SCONJ+ADP ש^ב^ה SCONJ+ADP+DET
+שבכ ש^ב^כ SCONJ+ADP+ADP
+שה ש^ה SCONJ+DET
+שכ ש^כ SCONJ+ADP ש^כ SCONJ+ADP ש^כ^ה SCONJ+ADP+DET ש^כ^ה SCONJ+ADP+DET
+שככ ש^כ^כ SCONJ+ADP+ADP ש^כ^כ^ה SCONJ+ADP+ADP+DET
+שכש ש^כש SCONJ+SCONJ
+שכשב ש^כש^ב SCONJ+SCONJ+ADP ש^כש^ב^ה SCONJ+SCONJ+ADP+DET
+שכשה ש^כש^ה SCONJ+SCONJ+DET
+שכשכ ש^כש^כ SCONJ+SCONJ+ADP ש^כש^כ SCONJ+SCONJ+ADP ש^כש^כ^ה SCONJ+SCONJ+ADP+DET
+שכשל ש^כש^ל SCONJ+SCONJ+ADP ש^כש^ל^ה SCONJ+SCONJ+ADP+DET
+שכשמ ש^כש^מ SCONJ+SCONJ+ADP
+של ש^ל SCONJ+ADP ש^ל^ה SCONJ+ADP+DET
+שלכ ש^ל^כ SCONJ+ADP+ADP ש^ל^כ^ה SCONJ+ADP+ADP+DET
+שמ ש^מ SCONJ+ADP
+שמה ש^מ^ה SCONJ+ADP+DET
+שמכ ש^מ^כ SCONJ+ADP+ADP ש^מ^כ^ה SCONJ+ADP+ADP+DET
+שמש ש^מש SCONJ+SCONJ
+שמשב ש^מש^ב SCONJ+SCONJ+ADP ש^מש^ב^ה SCONJ+SCONJ+ADP+DET
+שמשה ש^מש^ה SCONJ+SCONJ+DET
+שמשכ ש^מש^כ SCONJ+SCONJ+ADP ש^מש^כ SCONJ+SCONJ+ADP ש^מש^כ^ה SCONJ+SCONJ+ADP+DET
+שמשל ש^מש^ל SCONJ+SCONJ+ADP ש^מש^ל^ה SCONJ+SCONJ+ADP+DET
+שמשמ ש^מש^מ SCONJ+SCONJ+ADP
